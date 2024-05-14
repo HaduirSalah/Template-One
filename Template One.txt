@@ -1,0 +1,25 @@
+HTML & CSS Template One 2021 - #01 - Discover Design, Create Project, Add Tools
+https://www.graphberry.com/item/leon-psd-agency-template 
+https://necolas.github.io/normalize.css/
+google fonts
+https://www.figma.com/file/Z5fNeuJZTwSQDjOm8qDeSS/Untitled?frame-preset-name=iPhone%2011%20Pro%20%2F%20X => design system
+sign in google email
+
+#02 - Create Containers And Add Font Icons
+ Font Icons : 
+Font Awesome.com => https://fontawesome.com/ =>download for web free Font Awesome Free v5.15.3
+عشان اقدر اتحكم ف الايكونات عن طريق نص بدل الفوتوشوب والبكسله وكل دا
+<i class="fab fa-accessible-icon fa-5x" style="font-size: 200px;"></i>
+fa-5x => class font size ready insteand style
+كلاس جاهز بتعمل شغل حلو اوي ف الايكونز
+icomoon => موقع بيديك ان انت تختار الفونت من مكتبات العالم 
+https://icomoon.io/preview-free.html
+ Containers : الحاوية اللي بتاخد العناصر بتاعتك وتعزلها عن المحتوى وتعمل فيها اي حاجه
+  الهدف منه ان كل حاجه ف التصميم من غيره هتكون بتبدأ من اول الشاشه خالص بدون هوامش 
+
+#03 - Create Header And Links Part 1
+#04 - Create Header And Links Part 2
+#05 - Create Landing Section
+#06 - Create Features Section
+#07 - Create Services Section Part 1
+#08 - Create Services Section Part 2
